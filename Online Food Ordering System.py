@@ -4,7 +4,7 @@ def login():
     while True:
         username = input("Enter username: ")
         password = input("Enter password: ")
-        if username == "Pratiksha" and password == "Pratiksha123":
+        if username == "Ashish" and password == "Ashish17":
             print("Login successful!\n")
             break
         else:
